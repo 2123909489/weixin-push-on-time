@@ -12,8 +12,6 @@ export const config = {
     // 模板消息id
     TEMPLATE_ID: "ZvGo1DJ4Gbsz8PmnVkYQKNs7Qlq8X3OZbu3HzcIGIRw",
 
-    // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-    CALLBACK_TEMPLATE_ID: "oDMwm6OIc9eF_bsje5P-76ado1KY",
 
 
     /**
@@ -25,7 +23,7 @@ export const config = {
      */
     USERS: [
       //{name: '小瑞子', id: "osV6d51DNA077KUDSmBvtYOUTqa4"}, 
-      {name: '小仙女', id: "oDMwm6OIc9eF_bsje5P-76ado1KY"}, 
+      {name: '海海', id: "oDMwm6OIc9eF_bsje5P-76ado1KY"}, 
       //{name: '老婆2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
       //{name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
     ],
